@@ -1,0 +1,29 @@
+html {
+}
+body{
+  margin: 0;
+  padding: 0;
+  background: #1e5799; /* Old browsers */
+  color: whitesmoke;
+}
+
+h1{
+  margin: 0;
+}
+
+
+.customContainer{
+  margin-top: 100px;
+}
+
+.media-body .extra{
+  padding-top: 30px;
+  font-style: italic;
+}
+.media-body a{
+  color: yellow;
+  text-decoration: underline;
+}
+.media-object{
+  width: 64px;
+}

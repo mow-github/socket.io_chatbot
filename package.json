@@ -1,0 +1,22 @@
+{
+  "name": "mats_wikmar_sockets",
+  "version": "1.0.0",
+  "description": "socket.io_chatbot",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "hbs": "^4.0.1",
+    "morgan": "^1.8.1",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  },
+  "scripts": {
+    "dev": "supervisor server.js",
+    "start": "node server.js"
+  },
+  "author": "Mats Wikmar",
+  "license": "ISC"
+}
