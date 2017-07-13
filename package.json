@@ -1,6 +1,9 @@
 {
   "name": "mats_wikmar_sockets",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.1.4"
+  },
   "description": "socket.io_chatbot",
   "main": "server.js",
   "dependencies": {
